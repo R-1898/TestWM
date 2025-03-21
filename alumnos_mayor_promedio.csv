@@ -1,0 +1,117 @@
+asignatura,estudiante,calificacion,promedio,bandera
+Administracion de Proyectos,Vania Castellanos Juarez,10.00,7.153846,1
+Administracion de Proyectos,Nico Verdugo Blanes,9.00,7.153846,1
+Administracion de Proyectos,David Romero Mendoza,9.00,7.153846,1
+Algebra ,Fanny Rojas Tello,10.00,7.677419,1
+Algebra ,Javier Cruz Rojas,10.00,7.677419,1
+Algebra ,Karina Matamoroz,10.00,7.677419,1
+Algebra Lineal ,Fanny Rojas Tello,10.00,7.466667,1
+Algebra Lineal ,Paulina Arino Portillo,10.00,7.466667,1
+Algebra Lineal ,Diego Luz Alvares,10.00,7.466667,1
+Algoritmos y Estructuras de Datos,Rosalva Vargas,10.00,7.720000,1
+Algoritmos y Estructuras de Datos,Fanny Rojas Tello,10.00,7.720000,1
+Algoritmos y Estructuras de Datos,Karina Matamoroz,10.00,7.720000,1
+Analisis de Sistemas y Senales,Alexandra Navarrete Ramirez,10.00,7.320000,1
+Analisis de Sistemas y Senales,Diego Luz Alvares,10.00,7.320000,1
+Analisis de Sistemas y Senales,Javier Aguirre Cruz,10.00,7.320000,1
+Arquitectura de Computadoras,Vania Castellanos Juarez,10.00,7.625000,1
+Arquitectura de Computadoras,Alexdr Nikolenko,9.00,7.625000,1
+Arquitectura de Computadoras,Diego Luz Alvares,8.00,7.625000,1
+Bases de Datos ,Daiara Saldana,10.00,7.923077,1
+Bases de Datos ,Rosalva Vargas,10.00,7.923077,1
+Bases de Datos ,Nico Verdugo Blanes,10.00,7.923077,1
+Bases de Datos Avanzadas,Kike Vicens Bou,9.00,7.000000,1
+Bases de Datos Espaciales,Rosalva Vargas,9.00,7.333333,1
+Calculo Diferencial,Paulina Arino Portillo,10.00,7.516129,1
+Calculo Diferencial,Anastasia Cruz Salazar,10.00,7.516129,1
+Calculo Diferencial,Kike Vicens Bou,10.00,7.516129,1
+Calculo Integral,Diego Luz Alvares,10.00,7.433333,1
+Calculo Integral,Adelina Garcia Sanchez,10.00,7.433333,1
+Calculo Integral,Calisto Bolanos Bravo,10.00,7.433333,1
+Calculo Vectorial,Diego Luz Alvares,10.00,7.035714,1
+Calculo Vectorial,Rafael Alejandro Ramirez Contreras,10.00,7.035714,1
+Calculo Vectorial,Maria Barriga Sandoval,10.00,7.035714,1
+Cinematica y Dinamica,Alexdr Nikolenko,10.00,7.321429,1
+Cinematica y Dinamica,David Romero Mendoza,10.00,7.321429,1
+Cinematica y Dinamica,Anastasia Cruz Salazar,10.00,7.321429,1
+Circuitos Electricos,David Romero Mendoza,10.00,7.560000,1
+Circuitos Electricos,Dalila Sanmiguel Pedrosa,10.00,7.560000,1
+Circuitos Electricos,Paulina Arino Portillo,10.00,7.560000,1
+Compiladores,Rosalva Vargas,10.00,8.153846,1
+Compiladores,Dalila Sanmiguel Pedrosa,10.00,8.153846,1
+Compiladores,Nico Verdugo Blanes,9.00,8.153846,1
+Computacion Grafica,Rosalva Vargas,10.00,7.615385,1
+Computacion Grafica,Nico Verdugo Blanes,9.00,7.615385,1
+Computacion Grafica,Anastasia Cruz Salazar,9.00,7.615385,1
+Computacion para Ingenierios,Maria Barriga Sandoval,10.00,6.966667,1
+Computacion para Ingenierios,Wilfredo Corominas Zabala,9.00,6.966667,1
+Computacion para Ingenierios,Lupita de Esteban,9.00,6.966667,1
+Cultura y Comunicacion,Maria Barriga Sandoval,10.00,7.677419,1
+Cultura y Comunicacion,Paulina Arino Portillo,10.00,7.677419,1
+Cultura y Comunicacion,Calisto Bolanos Bravo,10.00,7.677419,1
+Diseno de Sistemas Digitales,Wilfredo Corominas Zabala,10.00,7.760000,1
+Diseno de Sistemas Digitales,David Romero Mendoza,10.00,7.760000,1
+Diseno de Sistemas Digitales,Nico Verdugo Blanes,10.00,7.760000,1
+Dispositivos y Circuitos Electricos,Maria Barriga Sandoval,10.00,7.550000,1
+Dispositivos y Circuitos Electricos,Kike Vicens Bou,10.00,7.550000,1
+Dispositivos y Circuitos Electricos,Alexdr Nikolenko,10.00,7.550000,1
+Ecuaciones Diferenciales,Nico Verdugo Blanes,10.00,7.357143,1
+Ecuaciones Diferenciales,Alexandra Navarrete Ramirez,10.00,7.357143,1
+Ecuaciones Diferenciales,Eugenio Galan Giron,9.00,7.357143,1
+Estatica,Fanny Rojas Tello,10.00,7.366667,1
+Estatica,Calisto Bolanos Bravo,10.00,7.366667,1
+Estatica,Alexandra Navarrete Ramirez,10.00,7.366667,1
+Estructura de Programacion de Computadoras,Rosalva Vargas,10.00,7.800000,1
+Estructura de Programacion de Computadoras,David Romero Mendoza,10.00,7.800000,1
+Estructura de Programacion de Computadoras,Ruben Arturo Hernandez Rosas,10.00,7.800000,1
+Estructuras Discretas,Wilfredo Corominas Zabala,10.00,7.400000,1
+Estructuras Discretas,Jorge Jimenez Palma,9.00,7.400000,1
+Estructuras Discretas,Maria Barriga Sandoval,9.00,7.400000,1
+Etica Profesional,Anastasia Cruz Salazar,9.00,6.450000,1
+Etica Profesional,Vania Castellanos Juarez,9.00,6.450000,1
+Etica Profesional,Karina Matamoroz,9.00,6.450000,1
+Geometria Analitica,Juliana Jodar,10.00,7.354839,1
+Geometria Analitica,Jorge Jimenez Palma,10.00,7.354839,1
+Geometria Analitica,Vania Castellanos Juarez,10.00,7.354839,1
+Historia de la Ingenieria,Jorge Jimenez Palma,10.00,7.320000,1
+Historia de la Ingenieria,Diego Luz Alvares,10.00,7.320000,1
+Historia de la Ingenieria,Maria Barriga Sandoval,10.00,7.320000,1
+Ingenieria de Software,Dalila Sanmiguel Pedrosa,10.00,7.280000,1
+Ingenieria de Software,Jorge Jimenez Palma,10.00,7.280000,1
+Ingenieria de Software,Alberto Herrera Cortez,9.00,7.280000,1
+Introduccion a la Economia,Jorge Jimenez Palma,10.00,7.233333,1
+Introduccion a la Economia,Maria Barriga Sandoval,10.00,7.233333,1
+Introduccion a la Economia,Daiara Saldana,10.00,7.233333,1
+Lenguajes de Programacion,Kike Vicens Bou,10.00,7.600000,1
+Lenguajes de Programacion,Nico Verdugo Blanes,10.00,7.600000,1
+Lenguajes de Programacion,Anastasia Cruz Salazar,10.00,7.600000,1
+Lenguajes Formales y Automatas,Diego Luz Alvares,10.00,7.500000,1
+Lenguajes Formales y Automatas,Kike Vicens Bou,10.00,7.500000,1
+Lenguajes Formales y Automatas,Nico Verdugo Blanes,9.00,7.500000,1
+Literatura Hispanoamericana Contemporanea,Diego Luz Alvares,10.00,6.840000,1
+Literatura Hispanoamericana Contemporanea,Kike Vicens Bou,9.00,6.840000,1
+Literatura Hispanoamericana Contemporanea,Nico Verdugo Blanes,9.00,6.840000,1
+Micro Computadoras,Dalila Sanmiguel Pedrosa,10.00,7.100000,1
+Micro Computadoras,Fanny Rojas Tello,10.00,7.100000,1
+Micro Computadoras,Anastasia Cruz Salazar,10.00,7.100000,1
+Probabilidad y Estadistica,Dalila Sanmiguel Pedrosa,10.00,7.840000,1
+Probabilidad y Estadistica,Anastasia Cruz Salazar,10.00,7.840000,1
+Probabilidad y Estadistica,Paulina Arino Portillo,10.00,7.840000,1
+Programacion Avanzada,Eugenio Galan Giron,10.00,7.928571,1
+Programacion Avanzada,Kike Vicens Bou,10.00,7.928571,1
+Programacion Avanzada,Vania Castellanos Juarez,10.00,7.928571,1
+Quimica,Adelina Garcia Sanchez,10.00,7.903226,1
+Quimica,Daiara Saldana,10.00,7.903226,1
+Quimica,Wilfredo Corominas Zabala,10.00,7.903226,1
+Redes de Datos,Dalila Sanmiguel Pedrosa,10.00,7.461538,1
+Redes de Datos,Rosalva Vargas,9.00,7.461538,1
+Redes de Datos,Anastasia Cruz Salazar,9.00,7.461538,1
+Sistemas de Comunicacion,David Romero Mendoza,10.00,7.150000,1
+Sistemas de Comunicacion,Dalila Sanmiguel Pedrosa,10.00,7.150000,1
+Sistemas de Comunicacion,Javier Aguirre Cruz,10.00,7.150000,1
+Sistemas Operativos,Rafael Alejandro Ramirez Contreras,10.00,7.440000,1
+Sistemas Operativos,Nico Verdugo Blanes,10.00,7.440000,1
+Sistemas Operativos,Carlos Juarez David,10.00,7.440000,1
+Termodinamica,Rosalva Vargas,10.00,7.035714,1
+Termodinamica,Maria Barriga Sandoval,10.00,7.035714,1
+Termodinamica,Vania Castellanos Juarez,10.00,7.035714,1
